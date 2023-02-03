@@ -1,0 +1,13 @@
+*.db
+*.lnk
+*~
+.idea/
+*.iml
+*.iws
+*.ipr
+*.log
+out/
+.gradle/
+build/
+.DS_Store
+/target/
